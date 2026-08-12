@@ -16,11 +16,11 @@ class Homework:
         print("Name:", self.name)
         print("Subject:", self.subject)
         print("Due Date:", self.due_date)
-        print("Points:", self.points)
+        print("Points:", self.points)  #This is just a test run
 
 homework1 = Homework("Math Worksheet", "Math", "Aug 12", 25)
 homework1.display()        
 
 #Check with L.E and Sydney about thr orange line on the side
-
+#
 #add homework1 & homework1.display to main on Wednesday

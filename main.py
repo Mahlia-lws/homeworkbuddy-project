@@ -8,6 +8,6 @@ def main():
 
 
 
+homework1.display()
 
-
-main()
+#main()
