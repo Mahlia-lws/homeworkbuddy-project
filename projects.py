@@ -1,6 +1,8 @@
+
+
 from Homework import Homework
 
-class Projects(Homework):
+class Project(Homework):
 
     def __init__(self, name, subject, due_date, points, slides):
         super().__init__(name, subject, due_date, points)
@@ -13,7 +15,7 @@ class Projects(Homework):
         print("Points:", self.points)
         print("Slides:", self.slides)
 
-forensic_science1 = Projects("Forensic Science Slideshow Presentation", "Science", "Aug 19", 100, 7)
+# forensic_science1 = Projects("Forensic Science Slideshow Presentation", "Science", "Aug 19", 100, 7). Test run
 
-forensic_science1.display()
+# forensic_science1.display()
         

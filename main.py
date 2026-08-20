@@ -1,17 +1,13 @@
+from planner import HomeworkBuddy
 
-
-def main():
-    print("This is my homework buddy manager app!")
-
-
+    #def main():
+        #print("This is my homework buddy manager app!")
 
 
 
 
-homework1.display()
+homework_buddy = HomeworkBuddy()
+homework_buddy.show_menu()
 
-english1.display()
-
-forensic_science1.display()
 
 #main()

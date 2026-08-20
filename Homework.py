@@ -18,8 +18,8 @@ class Homework:
         print("Due Date:", self.due_date)
         print("Points:", self.points)  #This is just a test run
 
-homework1 = Homework("Math Worksheet", "Math", "Aug 12", 25)
-homework1.display()        
+# homework1 = Homework("Math Worksheet", "Math", "Aug 12", 25) Test run
+# homework1.display()        
 
 #Check with L.E and Sydney about thr orange line on the side
 #

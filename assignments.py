@@ -15,9 +15,9 @@ class Assignment(Homework):
         print("Pages:", self.pages)
 
 
-english1 = Assignment("AP Lit Essay", "English", "Aug 14", 50, 3)
+# english1 = Assignment("AP Lit Essay", "English", "Aug 14", 50, 3) Test run
 
 
-english1.display()
+# english1.display()
 
 #remember to import everything together in main.py
