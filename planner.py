@@ -77,7 +77,7 @@ class HomeworkBuddy:
         kind = input("What kind of homework do you want to add?")
 
         if kind == "1":
-            name = input("Enter the assignment name:")
+            name = input("Enter the assignment !!name:")
             subject = input("Enter the subject:")
             due_date = input("Enter the due date:")
             points = input("Enter the points:")
