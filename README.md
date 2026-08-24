@@ -4,9 +4,7 @@ Homework Buddy is a manager/planner app that allows you to keep track of and add
 
 How to run the app:
 Type in "python main.py" into the terminal to get this:
-==============================
-       ☆ HOMEWORK BUDDY ☆
-==============================
+
 Welcome to the Homework Buddy!
 1. Show homework 
 2. Add homework
